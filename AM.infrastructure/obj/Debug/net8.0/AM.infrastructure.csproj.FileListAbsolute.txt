@@ -1,0 +1,17 @@
+C:\Users\omarz\source\repos\AirportMangment\AM.infrastructure\bin\Debug\net8.0\AM.infrastructure.deps.json
+C:\Users\omarz\source\repos\AirportMangment\AM.infrastructure\bin\Debug\net8.0\AM.infrastructure.runtimeconfig.json
+C:\Users\omarz\source\repos\AirportMangment\AM.infrastructure\bin\Debug\net8.0\AM.infrastructure.dll
+C:\Users\omarz\source\repos\AirportMangment\AM.infrastructure\bin\Debug\net8.0\AM.infrastructure.pdb
+C:\Users\omarz\source\repos\AirportMangment\AM.infrastructure\bin\Debug\net8.0\Am.ApplicationCore.dll
+C:\Users\omarz\source\repos\AirportMangment\AM.infrastructure\bin\Debug\net8.0\Am.ApplicationCore.pdb
+C:\Users\omarz\source\repos\AirportMangment\AM.infrastructure\obj\Debug\net8.0\AM.infrastructure.csproj.AssemblyReference.cache
+C:\Users\omarz\source\repos\AirportMangment\AM.infrastructure\obj\Debug\net8.0\AM.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omarz\source\repos\AirportMangment\AM.infrastructure\obj\Debug\net8.0\AM.infrastructure.AssemblyInfoInputs.cache
+C:\Users\omarz\source\repos\AirportMangment\AM.infrastructure\obj\Debug\net8.0\AM.infrastructure.AssemblyInfo.cs
+C:\Users\omarz\source\repos\AirportMangment\AM.infrastructure\obj\Debug\net8.0\AM.infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\omarz\source\repos\AirportMangment\AM.infrastructure\obj\Debug\net8.0\AM.infra.543A69EC.Up2Date
+C:\Users\omarz\source\repos\AirportMangment\AM.infrastructure\obj\Debug\net8.0\AM.infrastructure.dll
+C:\Users\omarz\source\repos\AirportMangment\AM.infrastructure\obj\Debug\net8.0\refint\AM.infrastructure.dll
+C:\Users\omarz\source\repos\AirportMangment\AM.infrastructure\obj\Debug\net8.0\AM.infrastructure.pdb
+C:\Users\omarz\source\repos\AirportMangment\AM.infrastructure\obj\Debug\net8.0\AM.infrastructure.genruntimeconfig.cache
+C:\Users\omarz\source\repos\AirportMangment\AM.infrastructure\obj\Debug\net8.0\ref\AM.infrastructure.dll

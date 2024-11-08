@@ -1,0 +1,14 @@
+C:\Users\omarz\source\repos\AirportMangment\Am.ApplicationCore\obj\Debug\net8.0\Am.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omarz\source\repos\AirportMangment\Am.ApplicationCore\obj\Debug\net8.0\Am.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\omarz\source\repos\AirportMangment\Am.ApplicationCore\obj\Debug\net8.0\Am.ApplicationCore.AssemblyInfo.cs
+C:\Users\omarz\source\repos\AirportMangment\Am.ApplicationCore\obj\Debug\net8.0\Am.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\omarz\source\repos\AirportMangment\Am.ApplicationCore\bin\Debug\net8.0\Am.ApplicationCore.deps.json
+C:\Users\omarz\source\repos\AirportMangment\Am.ApplicationCore\bin\Debug\net8.0\Am.ApplicationCore.dll
+C:\Users\omarz\source\repos\AirportMangment\Am.ApplicationCore\bin\Debug\net8.0\Am.ApplicationCore.pdb
+C:\Users\omarz\source\repos\AirportMangment\Am.ApplicationCore\obj\Debug\net8.0\Am.ApplicationCore.dll
+C:\Users\omarz\source\repos\AirportMangment\Am.ApplicationCore\obj\Debug\net8.0\refint\Am.ApplicationCore.dll
+C:\Users\omarz\source\repos\AirportMangment\Am.ApplicationCore\obj\Debug\net8.0\Am.ApplicationCore.pdb
+C:\Users\omarz\source\repos\AirportMangment\Am.ApplicationCore\obj\Debug\net8.0\ref\Am.ApplicationCore.dll
+C:\Users\omarz\source\repos\AirportMangment\Am.ApplicationCore\bin\Debug\net8.0\Am.ApplicationCore.runtimeconfig.json
+C:\Users\omarz\source\repos\AirportMangment\Am.ApplicationCore\obj\Debug\net8.0\Am.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\omarz\source\repos\AirportMangment\Am.ApplicationCore\obj\Debug\net8.0\Am.ApplicationCore.genruntimeconfig.cache
